@@ -1,1 +1,1 @@
-import{a}from"/cookbook-template/build/_shared/chunk-4UW3WPNX.js";import"/cookbook-template/build/_shared/chunk-2HVDTW4E.js";import"/cookbook-template/build/_shared/chunk-MRS6DOXX.js";import"/cookbook-template/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/geomorphology-cookbook/build/_shared/chunk-4UW3WPNX.js";import"/geomorphology-cookbook/build/_shared/chunk-2HVDTW4E.js";import"/geomorphology-cookbook/build/_shared/chunk-MRS6DOXX.js";import"/geomorphology-cookbook/build/_shared/chunk-OZE3FFNP.js";export default a();
