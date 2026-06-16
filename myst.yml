@@ -16,7 +16,10 @@ project:
     - title: Introduction
       children:
         - file: notebooks/seabed-morphology.ipynb
-        - file: notebooks/notebook-template.ipynb
+    - title: Data story
+      children:
+        - file: notebooks/DataVisualization.ipynb
+        - file: notebooks/Metadata.ipynb
   jupyter:
       binder:
         url: https://binder.projectpythia.org
