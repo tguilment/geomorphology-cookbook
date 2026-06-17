@@ -17,6 +17,7 @@ project:
       children:
         - file: notebooks/seabed-morphology.ipynb
         - file: notebooks/Metadata.ipynb
+        - file: notebooks/DataStory.ipynb
         - file: notebooks/rasterviz-intro.ipynb
         - file: notebooks/openness_closeness_explainer.ipynb
         - file: notebooks/Polygonization.ipynb
