@@ -64,7 +64,7 @@ These notebooks move from raster masks to vector features and attributes.
 Kathryn Rooney, Nelofar Qulizada, James Munroe, Orhan Eroglu, and Thomas Guilment.
 
 ### Contributors
-We are open to contributions.
+<!-- Leave a blank line here for the action -->
 
 ## Reference
 Huang, Z., Nanson, R., Nichol, S., Sixsmith, J., 2022 Geoscience Australia's Semi-automated Morphological Mapping Tools (GA-SaMMT) for Seabed Characterisation. Commonwealth of Australia (Geoscience Australia). https://dx.doi.org/10.26186/146832
