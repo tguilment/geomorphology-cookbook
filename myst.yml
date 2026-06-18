@@ -19,7 +19,9 @@ project:
         - file: notebooks/Metadata.ipynb
         - file: notebooks/DataStory.ipynb
         - file: notebooks/rasterviz-intro.ipynb
+        - file: notebooks/Topographic-Positioning-Index-Methods.ipynb
         - file: notebooks/openness_closeness_explainer.ipynb
+        - file: notebooks/Openness_Closeness_Computation.ipynb
         - file: notebooks/Polygonization.ipynb
         - file: notebooks/jupytergis-showcase.ipynb
   jupyter:

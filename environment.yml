@@ -19,4 +19,5 @@ dependencies:
   - jupytergis
 # packages to aid in cookbook development
   - jupyterlab-git
+  - jupyter-server-proxy
   - vim
